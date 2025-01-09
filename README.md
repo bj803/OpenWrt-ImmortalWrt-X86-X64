@@ -4,14 +4,10 @@
 **系统**\
 Diskman,文件传输\
 **服务**\
-Passwall,Adblock,全能推送,动态DDNS, QOS Nftables, 网络唤醒, KMS服务器, uPnP, OpenVPN,  NWAN3w分流助手\
-**网络存储**\
-USB打印服务器, Rclone, Samba网络共享, 挂载 SMB/CIFS 网络共享文件夹, FTP服务器\
-**VPN**\
-N2N VPN, \
+全能推送,DDNS-Go, 网络唤醒, KMS服务器, uPnP\
 **网络**\
-Socat, turbo ACC 网络加速, 多线多拨, NWAN3负载均衡
+Socat
 
 *************************************************
-**支持IPV6,包含FRR网络工具,WireGuard。**
+**支持IPV6**
 
